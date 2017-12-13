@@ -1,4 +1,4 @@
-esp8266-oled-ssd1306 [![Build Status](https://travis-ci.org/squix78/esp8266-oled-ssd1306.svg?branch=dev-branch-3.0.0)](https://travis-ci.org/squix78/esp8266-oled-ssd1306)
+esp32-oled-ssd1306 [![Build Status](https://travis-ci.org/squix78/esp8266-oled-ssd1306.svg?branch=dev-branch-3.0.0)](https://travis-ci.org/squix78/esp8266-oled-ssd1306)
 ============
 
 > We just released version 3.0.0. Please have a look at our [upgrade guide](UPGRADE-3.0.md)
