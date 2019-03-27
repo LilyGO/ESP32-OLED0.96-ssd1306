@@ -58,7 +58,7 @@
 // SH1106Brzo  display(0x3c, D3, D5);
 
 // Initialize the OLED display using Wire library
-SSD1306  display(0x3c, 4, 15);
+SSD1306  display(0x3c, 21, 22);
 // SH1106 display(0x3c, D3, D5);
 
 
